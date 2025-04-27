@@ -1,8 +1,9 @@
 # Raditfirasah's GitHub Profile
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfirasah&show_icons=true&theme=default)](https://github.com/Raditfirasah)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditfirasah&layout=compact&hide=html&theme=default)](https://github.com/Raditfirasah)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raditfirasah&theme=default)](https://github.com/Raditfirasah)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfiransah&show_icons=true&theme=default)](https://github.com/Raditfiransah)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditfiransah&layout=compact&hide=html&theme=default)](https://github.com/Raditfiransah)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raditfiransah&theme=default)](https://github.com/Raditfiransah)
+
 
 ---
 
