@@ -42,7 +42,7 @@ I'm continuously learning and applying these skills through hands-on projects an
 
 Some of my work so far:
 
-- [**Materi-JTI-Polinema**](https://github.com/Raditfirasah/Materi-JTI-Polinema)  
+- [**Materi-JTI-Polinema**](https://github.com/Raditfiransah/Materi-JTI-Polinema)  
   *A repository where I share educational materials, focusing on programming basics for students.*
 
 New projects related to AI/ML/NLP are currently in progress! 🚧
