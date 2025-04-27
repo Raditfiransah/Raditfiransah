@@ -4,10 +4,6 @@
   <img src="https://github.com/Raditfiransah.png" width="512" />
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfiransah&show_icons=true&theme=dark)](https://github.com/Raditfiransah)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditfiransah&layout=compact&hide=html&theme=dark)](https://github.com/Raditfiransah)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raditfiransah&theme=dark)](https://github.com/Raditfiransah)
-
 ---
 
 ## 👋 About Me
