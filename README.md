@@ -1,7 +1,7 @@
 # Raditfirasah's GitHub Profile
 
 <p align="center">
-  <img src="https://github.com/Raditfiransah.png" width="200" />
+  <img src="https://github.com/Raditfiransah.png" width="512" />
 </p>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfiransah&show_icons=true&theme=dark)](https://github.com/Raditfiransah)  
