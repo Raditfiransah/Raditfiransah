@@ -1,51 +1,63 @@
 # Raditfirasah's GitHub Profile
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfirasah)](https://github.com/Raditfirasah)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditfirasah&layout=compact&hide=html)](https://github.com/Raditfirasah)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raditfirasah)](https://github.com/Raditfirasah)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raditfirasah)](https://github.com/Raditfirasah)
-
-### Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radit-f-000817188/)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raditfirasah&show_icons=true&theme=default)](https://github.com/Raditfirasah)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raditfirasah&layout=compact&hide=html&theme=default)](https://github.com/Raditfirasah)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raditfirasah&theme=default)](https://github.com/Raditfirasah)
 
 ---
 
-## Summary
+## 👋 About Me
 
-Welcome to my GitHub profile! I'm Raditfirasah, an active user passionate about programming, especially in Java. On this platform, I enjoy creating and exploring various projects, focusing on algorithm and data structures, as well as object-oriented programming.
-
-![Profile](https://github.com/Raditfirasah/Raditfirasah/blob/main/Profile.PNG)
-
-As demonstrated by my public repositories and constant commits, I strive to engage regularly, continually extending my coding skills and contributing to my projects.
+Hi! I'm **Raditfirasah**, a tech enthusiast currently diving deep into the world of **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
+I’m still at the early stages of my journey, but I’m passionate about learning, experimenting, and sharing my progress along the way. 🚀
 
 ---
 
-## Projects
+## 📚 Current Focus
 
-While I have contributed to a limited number of public repositories, which primarily encompass my personal projects, I am actively engaged in sharing educational materials. Specifically, I maintain a ["Materi-JTI-Polinema"](https://github.com/Raditfirasah/Materi-JTI-Polinema) repository, where I compile course materials for Politeknik Negeri Malang, feeding my passion for sharing knowledge and supporting students' learning journeys.
+Right now, I'm building a strong foundation in AI and ML by learning and practicing:
 
-Utilizing Java, I endeavor to tackle challenges in various domains, implementing efficient and effective solutions. I explore algorithms and data structures that improve overall program performance and strive for clean and concise code.
-
-Please explore my repositories and feel free to reach out to me if you have any questions or would like to collaborate!
-
----
-
-## Experience and Skills
-
-Through my GitHub journey, I have evolved my skills in several areas, with a particular focus on Java programming. Below are the key languages and tools I work with:
-
-- Java
-- Python
-- Git
-
-My interest in programming goes hand in hand with my enthusiasm for Artificial Intelligence, Machine Learning, and Deep Learning. I am actively learning and exploring new models, architectures, and innovations that drive the boundaries of intelligent systems. By embracing optimization techniques and experimenting continuously, I strive to become a creative contributor to the field.
+- **Machine Learning:** Understanding basic algorithms and real-world use cases.
+- **Deep Learning:** Building simple neural networks and exploring model architectures.
+- **Natural Language Processing (NLP):** Teaching machines to understand human language.
+- **Large Language Models (LLMs):** Studying and fine-tuning models like GPT.
+- **Transformers:** Learning how modern AI models work and applying them in small projects.
 
 ---
 
-## Contact Me
+## 🛠️ Skills and Tools
 
-Thank you for visiting my GitHub profile! If you have any inquiries, opportunities, or simply want to connect, I would love to hear from you. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/radit-f-000817188/), and let's get in touch!
+Here are the languages and tools I'm currently working with:
 
-![End](https://github.com/Raditfirasah/Raditfirasah/blob/main/End.PNG)
+- **Languages:** Python (main focus), Java (basic understanding)
+- **Frameworks:** TensorFlow, PyTorch (actively learning)
+- **Concepts:** Machine Learning, Deep Learning, NLP
+- **Tools:** Git, GitHub, Jupyter Notebook
 
-Looking forward to discussing and collaborating on exciting projects together!
+I'm continuously learning and applying these skills through hands-on projects and experiments.
+
+---
+
+## 🛠️ Projects
+
+Some of my work so far:
+
+- [**Materi-JTI-Polinema**](https://github.com/Raditfirasah/Materi-JTI-Polinema)  
+  *A repository where I share educational materials, focusing on programming basics for students.*
+
+New projects related to AI/ML/NLP are currently in progress! 🚧
+
+---
+
+## 🤝 Connect with Me
+
+I'm always open to learning together, collaborating on projects, or just talking about tech!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radit-firansah-31201b327/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radit_firansah/)
+
+Feel free to reach out! Let's connect and grow together. 🚀
+
+---
+
+> *"Every expert was once a beginner." — Keep learning, keep building!*
