@@ -38,16 +38,6 @@ I'm continuously learning and applying these skills through hands-on projects an
 
 ---
 
-## 🛠️ Projects
-
-Some of my work so far:
-
-- [**Materi-JTI-Polinema**](https://github.com/Raditfiransah/Materi-JTI-Polinema)  
-  *A repository where I share educational materials, focusing on programming basics for students.*
-
-New projects related to AI/ML/NLP are currently in progress! 🚧
-
----
 
 ## 🤝 Connect with Me
 
