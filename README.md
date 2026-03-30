@@ -1,53 +1,26 @@
-# Raditfirasah's GitHub Profile
+# Raditfirasah
 
 <p align="center">
-  <img src="https://github.com/Raditfiransah.png" width="512" />
+  <img src="https://github.com/Raditfiransah.png" width="400" />
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hi! I'm **Raditfirasah**, a tech enthusiast currently diving deep into the world of **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**.  
-I’m still at the early stages of my journey, but I’m passionate about learning, experimenting, and sharing my progress along the way. 🚀
-
----
-
-## 📚 Current Focus
-
-Right now, I'm building a strong foundation in AI and ML by learning and practicing:
-
-- **Machine Learning:** Understanding basic algorithms and real-world use cases.
-- **Deep Learning:** Building simple neural networks and exploring model architectures.
-- **Natural Language Processing (NLP):** Teaching machines to understand human language.
-- **Large Language Models (LLMs):** Studying and fine-tuning models like GPT.
-- **Transformers:** Learning how modern AI models work and applying them in small projects.
+I'm Raditfirasah, a Machine Learning enthusiast dedicated to exploring and understanding the latest advancements in AI technology. My work revolves around staying updated with cutting-edge research, new architectural innovations in machine learning, and the practical challenges of deploying ML systems in production environments. I'm deeply interested in studying emerging AI architectures, understanding how state-of-the-art models work, and learning the engineering practices required to move models from research to real-world applications. Through hands-on projects and continuous exploration, I aim to bridge the gap between theoretical knowledge and practical implementation. My focus is on mastering Python, working with frameworks like TensorFlow and PyTorch, and diving into the complexities of building scalable, robust machine learning systems. I'm passionate about contributing to the evolution of AI technology and collaborating with others who share the vision of advancing machine learning in meaningful ways.
 
 ---
 
-## 🛠️ Skills and Tools
+## Connect With Me
 
-Here are the languages and tools I'm currently working with:
+I'd love to connect with you! Feel free to reach out through:
 
-- **Languages:** Python (main focus), Java (basic understanding)
-- **Frameworks:** TensorFlow, PyTorch (actively learning)
-- **Concepts:** Machine Learning, Deep Learning, NLP
-- **Tools:** Git, GitHub, Jupyter Notebook
+- [LinkedIn](https://www.linkedin.com/in/radit-firansah-31201b327/)
+- [Instagram](https://www.instagram.com/radit_firansah/)
 
-I'm continuously learning and applying these skills through hands-on projects and experiments.
+Let's grow together and explore the possibilities of technology.
 
 ---
 
-
-## 🤝 Connect with Me
-
-I'm always open to learning together, collaborating on projects, or just talking about tech!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radit-firansah-31201b327/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radit_firansah/)
-
-Feel free to reach out! Let's connect and grow together. 🚀
-
----
-
-> *"Every expert was once a beginner." — Keep learning, keep building!*
+> "Every expert was once a beginner. Keep learning, keep building."
