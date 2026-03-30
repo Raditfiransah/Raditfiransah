@@ -23,4 +23,4 @@ Let's grow together and explore the possibilities of technology.
 
 ---
 
-> "Every expert was once a beginner. Keep learning, keep building."
+> "Tell me and I forget. Teach me and I remember. Involve me and I learn. – Benjamin Franklin"
